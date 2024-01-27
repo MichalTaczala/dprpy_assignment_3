@@ -6,3 +6,5 @@ matplotlib
 plotly
 lxml
 scipy
+nltk
+tqdm
